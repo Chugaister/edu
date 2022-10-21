@@ -1,0 +1,3 @@
+﻿  moduleTemplate.cpp
+C:\Users\xmari\Documents\projects\edu\moduleTemplate\moduleTemplate.cpp(125): warning C4715: in: значение возвращается не при всех путях выполнения
+  moduleTemplate.vcxproj -> C:\Users\xmari\Documents\projects\edu\moduleTemplate\x64\Debug\moduleTemplate.exe
