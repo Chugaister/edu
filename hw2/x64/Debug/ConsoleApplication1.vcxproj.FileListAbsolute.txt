@@ -1,0 +1,2 @@
+C:\Users\xmari\Documents\projects\edu\hw2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\xmari\Documents\projects\edu\hw2\x64\Debug\ConsoleApplication1.exe

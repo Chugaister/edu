@@ -1,0 +1,16 @@
+﻿  hw3.cpp
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(134,12): error C2086: double a: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(90): message : см. объявление "a"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(134,15): error C2086: double b: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(90): message : см. объявление "b"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(144,12): error C2086: double a: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(90): message : см. объявление "a"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(144,15): error C2086: double b: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(90): message : см. объявление "b"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(144,18): error C2086: double h: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(134): message : см. объявление "h"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(144,21): error C2086: double S: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(79): message : см. объявление "S"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(145,9): error C2086: int E: переопределение
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(80): message : см. объявление "E"
+C:\Users\xmari\Documents\projects\edu\hw3\hw3.cpp(152,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
